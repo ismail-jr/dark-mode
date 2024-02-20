@@ -1,0 +1,31 @@
+body.dark{
+    background-color: black;
+    color: white;
+    transition: all ease 0,8s;
+}
+body{
+    background: white;
+    color: rgb(0, 0, 0);
+    transition: all ease 0.8s;
+}
+.btn-dark{
+    border: none;
+    font-size: 14px;
+    letter-spacing: 1.2px;
+    font-weight: 700;
+    cursor: pointer;
+    background: #580ef6;
+    color: white;
+    position: fixed;
+    
+    
+}
+h1{
+    color: #580ef6;
+    text-align: center;
+    
+}
+p{
+    margin: 20px;
+    text-align: center;
+}
